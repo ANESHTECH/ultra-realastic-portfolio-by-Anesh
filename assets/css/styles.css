@@ -279,7 +279,7 @@ background: linear-gradient(180deg,
 
 .home--container{
   position: relative;
-  padding-top: 4rem;
+  padding-top: 1rem;
   row-gap: 0rem;
 
 }
@@ -1012,7 +1012,7 @@ overflow: hidden;
 /*=============== FOOTER ===============*/
 .footer{
   position: relative;
-  padding-block: 4rem 2rem;
+  padding-block: 1rem 2rem;
   text-align: center;
   row-gap: 1rem;
   overflow: hidden;
@@ -1334,7 +1334,7 @@ overflow: hidden;
 
  .home--profession-2{
   font-size: var(--bigger-font-size);
-  transform: translateY(-1.5rem);
+  transform: translateY(-1rem);
 
  }
  .home--social{
